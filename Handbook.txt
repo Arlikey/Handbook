@@ -1,0 +1,24 @@
+Company Name: Microsoft
+Owner: Jeorge
+Telephone Number: 123-321-333
+Adress: 1, 2, 3
+Occupation: Master
+
+Company Name: Apple
+Owner: Oleg
+Telephone Number: 333-122-222
+Adress: 3, 2, 1
+Occupation: Flomaster
+
+Company Name: Microsoft
+Owner: Jeorge
+Telephone Number: 123-321-333
+Adress: 1, 2, 3
+Occupation: Master
+
+Company Name: Apple
+Owner: Oleg
+Telephone Number: 333-122-222
+Adress: 3, 2, 1
+Occupation: Flomaster
+

@@ -62,9 +62,13 @@ void Handbook::Input() {
 }
 
 void Handbook::Print() {
+	if (this == nullptr) {
+		cout << "Object is empty!" << endl;
+		return;
+	}
 	cout << "Company name: " << company_name << endl;
 	cout << "Owner: " << owner << endl;
 	cout << "Telephone number: " << tel_number << endl;
 	cout << "Adress: " << adress << endl;
-	cout << "Ocuppation: " << occupation << endl;
+	cout << "Ocuppation: " << occupation << endl << endl;
 }

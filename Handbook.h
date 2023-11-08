@@ -19,6 +19,7 @@ public:
 	void SetAdress(string adress);
 	void SetOccupation( string occupation);
 	
+
 	string GetCompanyName();
 	string GetOwner();
 	string GetTelephoneNumber();
